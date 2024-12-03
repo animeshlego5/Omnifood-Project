@@ -11,9 +11,8 @@ You can check out the live demo of the project here:
 
 1. [Technologies Used](#technologies-used)
 2. [Features](#features)
-3. [How to Run the Project Locally](#how-to-run-the-project-locally)
-4. [Contributing](#contributing)
-5. [License](#license)
+3. [Contributing](#contributing)
+
 
 ## Technologies Used
 
